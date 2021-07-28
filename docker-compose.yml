@@ -1,0 +1,9 @@
+version: '3.4'
+
+services:
+  mywebapi:
+    container_name: mywebapi
+    image: ${DOCKER_REGISTRY-}traefikletsencryptexample
+    build:
+      context: .
+      dockerfile: Dockerfile
