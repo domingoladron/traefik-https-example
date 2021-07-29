@@ -1,5 +1,6 @@
 # traefik-https-example
 An example app of using Traefik for HTTPS termination for your docker containers, as per my Medium article
+https://medium.com/it-dead-inside/use-traefik-for-local-docker-https-4f3965d7d129
 
 
 ## Prerequisites
